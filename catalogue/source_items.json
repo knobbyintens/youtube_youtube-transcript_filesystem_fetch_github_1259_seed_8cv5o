@@ -1,0 +1,54 @@
+{
+  "cycle": "2026-11-05",
+  "source": "OSS watch desk",
+  "items": [
+    {
+      "item_id": "SRC-01",
+      "episode_video_id": "8aGhZQkoFbQ",
+      "cited_repo": "zeit/next.js",
+      "context": "Candidate companion link for the JavaScript runtime episode."
+    },
+    {
+      "item_id": "SRC-02",
+      "episode_video_id": "3c-iBn73dDE",
+      "cited_repo": "docker/docker",
+      "context": "Candidate companion link for the container tooling episode."
+    },
+    {
+      "item_id": "SRC-03",
+      "episode_video_id": "CGpMlWVcHok",
+      "cited_repo": "facebookincubator/create-react-app",
+      "context": "Candidate companion link for the custom renderer episode."
+    },
+    {
+      "item_id": "SRC-04",
+      "episode_video_id": "QnZHO7QvjaM",
+      "cited_repo": "reactjs/redux",
+      "context": "Candidate companion link for the state-management episode."
+    },
+    {
+      "item_id": "SRC-05",
+      "episode_video_id": "9JZHodNR184",
+      "cited_repo": "facebook/react",
+      "context": "Candidate companion link for the React and Relay episode."
+    },
+    {
+      "item_id": "SRC-06",
+      "episode_video_id": "dpw9EHDh2bM",
+      "cited_repo": "gaearon/react",
+      "context": "Candidate companion link for the hooks episode."
+    },
+    {
+      "item_id": "SRC-07",
+      "episode_video_id": "4XpnKHJAok8",
+      "cited_repo": "psf/requests",
+      "context": "Candidate companion link for the tooling history episode."
+    },
+    {
+      "item_id": "SRC-08",
+      "episode_video_id": "uXEEL9mrkAQ",
+      "cited_repo": "fictional-labs/ghost-telemetry",
+      "context": "Candidate companion link for the observability episode."
+    }
+  ]
+}
